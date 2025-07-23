@@ -1,4 +1,4 @@
-# 🧠 AI-Powered To-Do App
+# 🧠 To-Do App
 
 A modern, responsive To-Do list application built with **Next.js**. This app allows users to create, schedule, and manage tasks with a sleek UI. It also includes planned features like  reminders, and smart scheduling.
 
